@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Dress",
+  "base_artist": "Dijon",
+  "createdAt": "2025-12-22T17:18:04.393316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Dress",
+      "artist": "Eighth Wonder",
+      "has_synced": false,
+      "path": "select/01_The_Dress_Eighth_Wonder.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Dress",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/02_The_Dress_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sajna, Say Yes To The Dress",
+      "artist": "Badshah feat. Payal Dev",
+      "has_synced": true,
+      "path": "select/03_Sajna,_Say_Yes_To_The_Dress_Badshah_feat._Payal_Dev.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sajna, Say Yes To The Dress",
+      "artist": "Badshah ; Payal Dev",
+      "has_synced": true,
+      "path": "select/04_Sajna,_Say_Yes_To_The_Dress_Badshah_;_Payal_Dev.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Dress Looks Nice on You",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/05_The_Dress_Looks_Nice_on_You_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thanks for the Dress",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/06_Thanks_for_the_Dress_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mama Don't Make Me Put on the Dress Again",
+      "artist": "Trixie Mattel",
+      "has_synced": true,
+      "path": "select/07_Mama_Don't_Make_Me_Put_on_the_Dress_Again_Trixie_Mattel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Dress",
+      "artist": "The Dudes",
+      "has_synced": true,
+      "path": "select/08_The_Dress_The_Dudes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Art of the Dress",
+      "artist": "Daniel Ingram",
+      "has_synced": false,
+      "path": "select/09_Art_of_the_Dress_Daniel_Ingram.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Art of the Dress",
+      "artist": "Daniel Ingram",
+      "has_synced": true,
+      "path": "select/10_Art_of_the_Dress_Daniel_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Art of the Dress (Demo)",
+      "artist": "Daniel Ingram",
+      "has_synced": false,
+      "path": "select/11_Art_of_the_Dress_(Demo)_Daniel_Ingram.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Dress",
+      "artist": "Dijon",
+      "has_synced": true,
+      "path": "select/12_The_Dress_Dijon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Dress",
+      "artist": "Blonde Redhead",
+      "has_synced": false,
+      "path": "select/13_The_Dress_Blonde_Redhead.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sajna, Say Yes To The Dress",
+      "artist": "Badshah ; Payal Dev",
+      "has_synced": true,
+      "path": "select/14_Sajna,_Say_Yes_To_The_Dress_Badshah_;_Payal_Dev.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Dress Looks Nice on You",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/15_The_Dress_Looks_Nice_on_You_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Dress",
+      "artist": "Dijon",
+      "has_synced": false,
+      "path": "select/pl_01_The_Dress_Dijon.txt"
+    }
+  ]
+}
